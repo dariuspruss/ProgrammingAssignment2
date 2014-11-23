@@ -1,3 +1,6 @@
+NOTE: this is the README from RDPENG's repository. I haven't modified it. For information on how to use my cachematrix.R script, please read my comments in that file. 
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
